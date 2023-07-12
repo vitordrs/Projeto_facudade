@@ -1,0 +1,47 @@
+#foto {
+	width: 100%;
+}
+
+.principal{
+	padding: 35px;
+	background: #ffff00;
+
+}
+
+
+
+h1 {
+	background: #00ffff;
+	text-align: center;
+	padding: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+#feedback {
+	 font-size: 22px;
+}
+
+strong em {
+	color: blue;
+}
+
+.diferencial{
+
+}
+
+.lista{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+
+
+}
+
+.itens{
+	font-size: 20px;
+	font-style:  italic;
+}
