@@ -14,4 +14,5 @@ O projeto não possui muitas funcionaidades, foi criado com intuito de ser um es
 # Preview
 ![Foto da index](./img/preview/preview1.png)
 ![Segunda foto da index](./img/preview/preview2.png)
+--
 ![Pagina de serviços](./img/preview/preview_servicos.png)
